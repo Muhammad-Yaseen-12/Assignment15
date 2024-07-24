@@ -192,6 +192,7 @@ li {
     }
 
     .right {
+        padding-right: 260px;
         margin-top: 0px;
     }
 
@@ -202,7 +203,11 @@ li {
     }
 
     .main {
+        width: 90%;
         margin-top: 0px;
+        margin-left: 60px;
+        margin: auto;
+        margin-left: 180px;
     }
 
 
@@ -221,10 +226,14 @@ li {
         display: inline-block;
 
     }
-
+    .image {
+        width: 330px;
+        display: grid;
+        place-items: center;
+    }
 
     .service {
-        width: 18%;
+        width: 14%;
 
     }
 
