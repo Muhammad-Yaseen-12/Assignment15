@@ -192,14 +192,14 @@ li {
     }
 
     .right {
-        padding-right: 260px;
+        padding-right: 380px;
         margin-top: 0px;
     }
 
     .right img {
         margin-top: 30px;
         display: block;
-        width: 234px;
+        width: 110px;
     }
 
     .main {
@@ -207,7 +207,7 @@ li {
         margin-top: 0px;
         margin-left: 60px;
         margin: auto;
-        margin-left: 180px;
+        margin-left: 110px;
     }
 
 
