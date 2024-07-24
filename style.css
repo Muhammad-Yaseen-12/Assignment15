@@ -179,7 +179,7 @@ li {
     .left {
         height: 82vh;
         background-color: rgb(0, 0, 0);
-        padding-top: 250px;
+        padding-top: 310px;
         float: left;
         text-align: center;
         margin: auto;
@@ -198,7 +198,7 @@ li {
     .right img {
         margin-top: 30px;
         display: block;
-        width: 115px;
+        width: 234px;
     }
 
     .main {
@@ -211,6 +211,7 @@ li {
     }
 
     .section-container {
+        padding-top: 60px;
         min-height: 54vh;
 
     }
@@ -223,24 +224,29 @@ li {
 
 
     .service {
-        width: 30%;
+        width: 18%;
 
     }
 
     .txt-1 {
+        margin-left: 10px;
         width: 200px;
+        padding-top: 100px;
+        
     }
 
     .txt-2 {
         width: 200px;
+        padding-top: 100px;
     }
 
     .txt-3 {
         width: 200px;
+        padding-top: 100px;
     }
 
     .txt-4 {
         width: 200px;
-        padding-top: 30px;
+        padding-top: 100px;
     }
 }
