@@ -178,7 +178,7 @@ li {
 
     .left {
         height: 82vh;
-        background-color: aqua;
+        background-color: rgb(0, 0, 0);
         padding-top: 250px;
         float: left;
         text-align: center;
@@ -188,6 +188,7 @@ li {
 
     .left p {
         margin: 20px;
+        color: white;
     }
 
     .right {
